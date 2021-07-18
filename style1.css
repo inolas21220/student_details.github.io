@@ -1,0 +1,59 @@
+body {
+    font-family: serif;
+    text-align: center;
+}
+
+.maindiv {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 5%;
+    color: rgb(5, 0, 0);
+    font-stretch: wider;
+    background-color: rgb(243, 30, 23);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.button {
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(49, 197, 116);
+    color: floralwhite;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.button:hover {
+    background-color: rgb(134, 126, 202);
+    color: black;
+}
+
+h4 {
+    color: rgb(19, 18, 18);
+    margin-bottom: 5%;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+tr td {
+    border-bottom: 2px solid rgba(134, 133, 133, 0.2);
+    padding: 8%;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 15px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
